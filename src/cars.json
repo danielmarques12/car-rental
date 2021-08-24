@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "model": "X",
+      "brand": "Tesla",
+      "plate": "ABC-1234",
+      "price": 49.999,
+      "year": 2020
+    },
+    {
+      "model": "X",
+      "brand": "Tesla",
+      "plate": "ABC-1234",
+      "price": 49.999,
+      "year": 2020
+    },
+    {
+      "model": "X",
+      "brand": "Tesla",
+      "plate": "ABC-1234",
+      "price": 49.999,
+      "year": 2020
+    },
+    {
+      "model": "X",
+      "brand": "Tesla",
+      "plate": "ABC-1234",
+      "price": 49.999,
+      "year": 2020
+    },
+    {
+      "model": "X",
+      "brand": "Tesla",
+      "plate": "ABC-1234",
+      "price": 49.999,
+      "year": 2020
+    }
+  ]
+}
